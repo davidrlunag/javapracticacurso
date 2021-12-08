@@ -1,0 +1,16 @@
+Practica Curso JEE
+Una librería desea que la ayudemos a implementar un sistema para guardar información de los libros que maneja.
+La información más importante es que deben agruparse por Categorias y debe permitir búsquedas por titulo y autor.
+Así mismo la librería desea conocer algunas estadísticas: Cantidad de libros por categorías, Cantidad de libros en total,
+número de autores que manejan y el monto en $ que tienen en la biblioteca.
+
+Se desea que usted presente lo siguiente:
+1.- Modelo de Objetos donde se vea la relación de las clases que se necesitan con sus atributos y métodos.
+2.- Construcción de un Layout para manejar las diferentes pantallas, debe haber un menú donde se vean los 
+links de categorías, Libros y Estadisticas
+3.- Construccion de los cruds (Por lo menos en cada pantalla se debe poner a funcionar alguna de las funciones del CRUD (agregar, modificar, eliminar)
+4.- La pantalla inicial de cada una de las opciones debe mostrar la lista de la opción seleccionada
+5.- Se tomará en cuenta el manejo de la presentación, además de la funcionalidad y el buen uso de lo aprendido en clase.
+
+Quedo atento a sus dudas o inquietudes.
+LA FECHA DE ENTREGA TOPE DE ESTE PROYECTO PARA OPTAR A SU CERTIFICADO SERÁ EL LUNES 20 DE DICIEMBRE
